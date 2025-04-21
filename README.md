@@ -22,7 +22,8 @@ I love being part of the tech community:
 I'm currently interested in learning more about:
 
 - The latest **Azure services**
-- Designing **multi-tenant SaaS architectures**
+- **Multi-tenant SaaS architectures**
+- **Digital experience platforms** (DXP)
 - **Dapr** (Distributed Application Runtime)
 - **Sustainable high performance** in digital product teams
 
