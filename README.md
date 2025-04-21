@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hola!
 
-<!--
-**remojansen/remojansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Remo H. Jansen**, a Spanish 🇪🇸 software engineer living in **Ireland 🇮🇪 since 2010**.
 
-Here are some ideas to get you started:
+### 🧑‍💻 Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work as a **Technical Specialist in App Innovation at Microsoft Ireland**, where I help tech teams and organizations leverage Microsoft technologies to become the best version of themselves.
+
+Over the last **15 years**, I’ve immersed myself in open-source web technologies, particularly **JavaScript** and **TypeScript**.
+
+### 🫶 Open Source & Community
+
+I love being part of the tech community:
+
+- Former **Microsoft Most Valuable Professionals (MVP)**
+- Creator of [**InversifyJS**](https://github.com/inversify/InversifyJS), a lightweight IoC container for JavaScript apps with **200M+ downloads on npm**!
+- Organizer of JSDayIE (Ireland’s first JavaScript conference) and the **Dublin TypeScript Meetup**
+- [**Author of TypeScript books**](https://www.amazon.com/s?k=remo+h+jansen&i=stripbooks) and content creator on [**DEV.to**](https://dev.to/remojansen)
+
+### 🌱 Learning
+
+I'm currently interested in learning more about:
+
+- The latest **Azure services**
+- Designing **multi-tenant SaaS architectures**
+- **Dapr** (Distributed Application Runtime)
+- **Sustainable high performance** in digital product teams
+
+### ⚡ Fun Fact
+
+I’m an **Ironman 140.6** finisher and currently working on becoming an **Abbott World Marathon Majors** finisher.
+
+### 🤝 Let’s Connect
+
+Feel free to connect with me on [**LinkedIn**](https://www.linkedin.com/in/remo-jansen/) or here on GitHub. Let’s **collaborate and innovate** together!
