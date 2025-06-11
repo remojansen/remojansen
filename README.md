@@ -14,7 +14,7 @@ I love being part of the tech community:
 
 - Former **Microsoft Most Valuable Professionals (MVP)**
 - Creator of [**InversifyJS**](https://github.com/inversify/InversifyJS), a lightweight IoC container for JavaScript apps with **200M+ downloads on npm**!
-- Organizer of JSDayIE (Ireland’s first JavaScript conference) and the **Dublin TypeScript Meetup**
+- Former organizer of JSDayIE (Ireland’s first JavaScript conference) and the **Dublin TypeScript Meetup**
 - [**Author of TypeScript books**](https://www.amazon.com/s?k=remo+h+jansen&i=stripbooks) and content creator on [**DEV.to**](https://dev.to/remojansen)
 
 ### 🌱 Learning
