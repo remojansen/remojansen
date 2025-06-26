@@ -4,7 +4,7 @@ I’m **Remo H. Jansen**, a Spanish 🇪🇸 software engineer living in **Irela
 
 ### 🧑‍💻 Work
 
-I work as a **Technical Specialist in App Innovation at Microsoft Ireland**, where I help tech teams and organizations leverage Microsoft technologies to become the best version of themselves.
+I work as a **Solution Engineer (App Innovation & AI) at Microsoft Ireland**, where I help tech teams and organizations leverage Microsoft technologies to become the best version of themselves.
 
 Over the last **15 years**, I’ve immersed myself in open-source web technologies, particularly **JavaScript** and **TypeScript**.
 
