@@ -4,9 +4,9 @@ I’m **Remo H. Jansen**, a Spanish 🇪🇸 software engineer living in **Irela
 
 ### 🧑‍💻 Work
 
-I work as a **Solution Engineer (App Innovation & AI) at Microsoft Ireland**, where I help tech teams and organizations leverage Microsoft technologies to become the best version of themselves.
+I work as a **Technical Lead at Marsh McLennan**. In this role, I lead a cross-functional team responsible for all technical aspects of application lifecycle management—from design and development through deployment, maintenance, and optimization. My focus is on building and supporting AI-powered applications that enhance business efficiency, streamline processes, unlock data-driven insights, and deliver greater value to clients and colleagues alike. Previously, I held technical roles such as Solution Engineer and Technical Lead at organizations including Microsoft, Aerlytix, Aon, and others."
 
-Over the last **15 years**, I’ve immersed myself in open-source web technologies, particularly **JavaScript** and **TypeScript**.
+For over **15 years**, I’ve immersed myself in open-source web technologies, particularly **Node.js** and **TypeScript**.
 
 ### 🫶 Open Source & Community
 
